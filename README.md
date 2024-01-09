@@ -7,3 +7,10 @@ Fully managed by our dedicated Cyber Education Team, we take students from cyber
 
 
 <h1> Cyber security cirriculum</h1>
+
+<h3>Module 1: Cyber Essentials</h3>
+    <p1>Lesson 1.1 What is Cyber</p1> <br>
+    <br>
+    <p1> Lesson 1.2 CIA Triad</p1>
+<h3> Module 2</h3>
+<h3> Module 3</h3>

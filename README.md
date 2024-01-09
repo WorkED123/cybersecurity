@@ -10,8 +10,10 @@ Fully managed by our dedicated Cyber Education Team, we take students from cyber
 
 <h1> Cybersecurity Programs Directory</h1>
 
+<h1> Advance Cybersecurity Programs</h1>
+
 <h3>New York Cyber Discovery</h3>
 
 <h3> CHCF Cybersecurity Discovery </h3>
 
-<h3> California Cybersecurity</h3>
+<h3>Cybersecurity Teacher </h3>

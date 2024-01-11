@@ -8,7 +8,7 @@ Fully managed by our dedicated Cyber Education Team, we take students from cyber
 
 <h1> Cybersecurity Curriculum</h1>
 
-<h3>Module 1: Cyber Essentials</h3> 
+<h2>Module 1: Cyber Essentials</h2> 
     
  <p1>Lesson 1.1: What is Cyber</p1>
  <br>
@@ -23,7 +23,7 @@ Fully managed by our dedicated Cyber Education Team, we take students from cyber
 <br>
 <br>
     
-<h3> Module 2: Networking Basics</h3> 
+<h2> Module 2: Networking Basics</h2> 
 
 <p2>Lesson 2.1: Introduction to Newtworks</p2>
 
@@ -36,7 +36,7 @@ Fully managed by our dedicated Cyber Education Team, we take students from cyber
 <p2>Lesson 2.5: Network Troubleshooting</p2> 
 <br>
 <br>
-<h3> Module 3: Introduction to Linux</h3>
+<h2> Module 3: Introduction to Linux</h2>
 
 <p3> Lesson 3.1: Linux Basics </p3> <br>
 <br>
@@ -49,7 +49,7 @@ Fully managed by our dedicated Cyber Education Team, we take students from cyber
 <p3> Lesson 3.5: Linux Distributions for Ethical Hacking </p3>
 <br>
 <br>
-<h3> Module 4: Cryptography</h3>
+<h2> Module 4: Cryptography</h2>
 <p4> Lesson 4.1: Introduction to Cryptography</p4>
 <br>
 <br>
@@ -65,7 +65,7 @@ Fully managed by our dedicated Cyber Education Team, we take students from cyber
 <p4> Lesson 4.5: Public Key (Asymmetric) Encryption</p4> 
 <br>
 <br>
-<h3> Module 5: Web Application Security</h3>
+<h2> Module 5: Web Application Security</h2>
 <p5> Lesson 5.1: Common Web Vulnerabbilities </p5>
 <br>
 <br>
@@ -82,7 +82,7 @@ Fully managed by our dedicated Cyber Education Team, we take students from cyber
 <br>
 <br>
 
-<h3> Module 6: Wireless Technologies </h3>
+<h2> Module 6: Wireless Technologies </h2>
 <p6> Lesson 6.1: Introudction to Wireless Networks</p6>
 <br>
 <br>
@@ -98,7 +98,8 @@ Fully managed by our dedicated Cyber Education Team, we take students from cyber
 <p6> Lesson 6.5: Defending Wireless Networks</p6>
 <br>
 <br>
-<h3> Module 7: Secure Network Design</h3>
+
+<h2> Module 7: Secure Network Design</h2>
 <p7>Lesson 7.1: Basic Network Security</p7>
 <br>
 <br>
@@ -116,7 +117,7 @@ Fully managed by our dedicated Cyber Education Team, we take students from cyber
 <br>
 
 
-<h3> Module 8: Cloud Security</h3>
+<h2> Module 8: Cloud Security</h2>
 <p8> Lesson 8.1: Introudction to Cloud Technologies</p8>
 <br>
 <br>
@@ -133,7 +134,7 @@ Fully managed by our dedicated Cyber Education Team, we take students from cyber
 <br>
 <br>
 
-<h3> Module 9: Access Control Managment</h3>
+<h2> Module 9: Access Control Managment</h2>
 <p9>Lesson 9.1: Introudction to Acess Control Management</p9>
 <br>
 <br>
@@ -150,7 +151,7 @@ Fully managed by our dedicated Cyber Education Team, we take students from cyber
 <br>
 <br>
 
-<h3> Module 10: Ethical Hacking</h3>
+<h2> Module 10: Ethical Hacking</h2>
 <p10>Lesson 10.1: Introduction to Penetration Testing</p10>
 <br>
 <br>
@@ -166,7 +167,8 @@ Fully managed by our dedicated Cyber Education Team, we take students from cyber
 <p10>Lesson 10.5: Capture the Flap (CTF)</p10>
 <br>
 <br>
-<h3> Module 11: Data Security</h3>
+
+<h2> Module 11: Data Security</h2>
 <p11> Lesson 11.1: Introduction to Data Security</p11>
 <br>
 <br>
@@ -183,7 +185,7 @@ Fully managed by our dedicated Cyber Education Team, we take students from cyber
 <br>
 <br>
 
-<h3> Module 12: Cyberwarfare</h3>
+<h2> Module 12: Cyberwarfare</h2>
 <p12>Lesson 12.1: Introduction to Cyberwarfare</p12>
 <br>
 <br>
@@ -199,7 +201,8 @@ Fully managed by our dedicated Cyber Education Team, we take students from cyber
 <p12>Lesson 12.5: Case Study: Stuxnet</p12>
 <br>
 <br>
-<h3> Module 13: Governance and Compliance</h3>
+
+<h2> Module 13: Governance and Compliance</h2>
 <p13>Lesson 13.1: Introduction to Security Governance </p13>
 <br>
 <br>
@@ -215,7 +218,8 @@ Fully managed by our dedicated Cyber Education Team, we take students from cyber
 <p13>Lesson 13.5: Audits and Assessments</p13>
 <br>
 <br>
-<h3> Module 14: Digital Forensics and Cybercrime</h3>
+
+<h2> Module 14: Digital Forensics and Cybercrime</h2>
 <p14>Lesson 14.1: Introduction to Digitial Forensics</p14>
 <br>
 <br>
@@ -231,7 +235,8 @@ Fully managed by our dedicated Cyber Education Team, we take students from cyber
 <p14>Lesson 14.5: Hacker Profile</p14>
 <br>
 <br>
-<h3> Module 15: Information Management and Risk</h3>
+
+<h2> Module 15: Information Management and Risk</h2>
 <p15>Lesson 15.1: Risk Identification</p15>
 <br>
 <br>
@@ -247,7 +252,8 @@ Fully managed by our dedicated Cyber Education Team, we take students from cyber
 <p15>Lesson 15.5: Risk Management Tools and Technologies</p15>
 <br>
 <br>
-<h3> Module 16: Malware</h3>
+
+<h2> Module 16: Malware</h2>
 <p16>Lesson 16.1: Introudction to Malware</p16>
 <br>
 <br>
@@ -263,7 +269,8 @@ Fully managed by our dedicated Cyber Education Team, we take students from cyber
 <p16>Lesson 16.5: Malware ANalysis and Reverse Engineering</p16>
 <br>
 <br>
-<h3> Module 17: Exploring Cyber Pathways</h3>
+
+<h2> Module 17: Exploring Cyber Pathways</h2>
 <p17>Lesson 17.1: Introudction to Cybersecurity Careers</p17>
 <br>
 <br>
@@ -279,7 +286,8 @@ Fully managed by our dedicated Cyber Education Team, we take students from cyber
 <p17>Lesson 17.5: Interview Preparation</p17>
 <br>
 <br>
-<h3> Module 18: Emerging Cyber Technonlogies</h3>
+
+<h2> Module 18: Emerging Cyber Technonlogies</h2>
 <p18>Lesson 18.1: Blockchain</p18>
 <br>
 <br>

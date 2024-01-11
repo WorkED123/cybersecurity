@@ -46,7 +46,7 @@ Fully managed by our dedicated Cyber Education Team, we take students from cyber
 <br>
 <p3> Lesson 3.4: Bash Shell Scripting </p3><br>
 <br>
-<p3> Lesson 3.5: Linux Distributions for Ethical Hacking </p3><br>
+<p3> Lesson 3.5: Linux Distributions for Ethical Hacking </p3>
 <br>
 <br>
 <h3> Module 4: Cryptography</h3>

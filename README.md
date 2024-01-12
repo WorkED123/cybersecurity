@@ -1,5 +1,10 @@
 <h1> <a href="https://worked.com/work-based-learning/cybersecurity/">Cyber Pathway </a></h1>
 
+**Insert Cyber syllabus**
+
+
+
+
 <p1> Cybersecurity Projects</p1>
 <br>
 <p2> Cybersecurity Curriculum</p2>
@@ -7,6 +12,10 @@
 <p3> Cybersecurity Archieve </p3>
 <br>
 <p4> Cyber Briefing </p4>
+<br>
+<p5> Cyber Templates </p5>
+(only linkes to the templates)
+
 
 
 

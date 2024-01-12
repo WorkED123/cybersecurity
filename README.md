@@ -1,10 +1,12 @@
-<h1> <a href="https://worked.com/work-based-learning/cybersecurity/">Cybersecurity </a></h1>
+<h1> <a href="https://worked.com/work-based-learning/cybersecurity/">Cyber Pathway </a></h1>
 
 <p1> Cybersecurity Projects</p1>
 <br>
 <p2> Cybersecurity Curriculum</p2>
 <br>
 <p3> Cybersecurity Archieve </p3>
+<br>
+<p4> Cyber Briefing </p4>
 
 
 

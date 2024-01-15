@@ -5,15 +5,15 @@
 
 
 
-<p1> Cybersecurity Projects</p1>
+<h2> Cybersecurity Projects</h2>
 <br>
-<p2> Cybersecurity Curriculum</p2>
+<h2> Cybersecurity Curriculum</h2>
 <br>
-<p3> Cybersecurity Archieve </p3>
+<h2> Cybersecurity Archieve </h2>
 <br>
-<p4> Cyber Briefing </p4>
+<h2> Cyber Briefing </h2>
 <br>
-<p5> Cyber Templates </p5>
+<h2> Cyber Templates </h2>
 (only linkes to the templates)
 
 

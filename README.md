@@ -56,7 +56,12 @@ Our complete Cyber Pathway has been crafted by industry leaders, ensuring you ar
 
     
 <h2>Cyber Templates</h2>
-(only linkes to the templates)
+
+<p1> <a href="https://docs.google.com/document/d/1eO-H4A1vt8iThbAo5q2Y3OeevAJdnN7mGEOYOsc5gh8/edit?usp=sharing">Cyber Challenge/Activity Template </a></p1>
+
+<p1> <a href="https://docs.google.com/document/d/1X5KLuItHIzgi3HHD4gN8MqIJKSu0bGxejmVqAnQNiyw/edit?usp=sharing"> Cyber Lesson Plan Template </a></p1>
+
+<p1></p1>
 
 
 

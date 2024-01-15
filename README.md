@@ -45,7 +45,7 @@ Our complete Cyber Pathway has been crafted by industry leaders, ensuring you ar
 
 <h2>Cybersecurity Projects</h2>   
     
-<h2>Cybersecurity Curriculum</h2>
+<h2><a href="https://github.com/WorkED123/cybersecuritycurriculum">Cybersecurity Curriculum </a></h2>
 
     
 <h2>Cybersecurity Archieve</h2>

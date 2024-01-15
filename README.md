@@ -1,11 +1,6 @@
 <h1> <a href="https://worked.com/work-based-learning/cybersecurity/">Cyber Pathway </a></h1>
 
-
-<a href="https://t4.ftcdn.net/jpg/05/76/95/79/360_F_576957973_wV4lr9ICVTxtRkC3J38ZUKWKaHXP4Uth.jpg"> </a>
-
-
-
-
+![Pathway](https://github.com/WorkED123/repository//master/img/octocat.png
 
 
 

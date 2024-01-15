@@ -38,48 +38,22 @@ Our complete Cyber Pathway has been crafted by industry leaders, ensuring you ar
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<ul>
-<li>
+<h2>Cybersecurity Projects</h2>   
     
-**Cybersecurity Projects**</li>
-<br>
-<li><p2>
+<h2>Cybersecurity Curriculum</h2>
+
     
-**Cybersecurity Curriculum**</p2></li>
-<br>
-<li><p2> 
+<h2>Cybersecurity Archieve</h2>
+
+
     
-**Cybersecurity Archieve** </p2></li>
-<br>
-<li><p2> 
+<h2>Cyber Briefing</h2>
+
     
-**Cyber Briefing** </p2></li>
-<br>
-<li><p2> 
-    
-**Cyber Templates**</p2></li>
+<h2>Cyber Templates</h2>
 (only linkes to the templates)
 
 
-</ul>
 
 
 

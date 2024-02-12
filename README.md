@@ -54,7 +54,7 @@ Our complete Cyber Pathway has been crafted by industry leaders, ensuring you ar
 
 
     
-<li><h3>Cyber Briefings</h3>
+<li><h3><a href="https://github.com/WorkED123/Cyber-Briefing/blob/main/README.md">Cyber Briefings</a></h3>
 
     
 <li><h3><a href="https://github.com/WorkED123/Templates">Cyber Templates</a></h3>

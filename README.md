@@ -41,27 +41,34 @@ Our complete Cyber Pathway has been crafted by industry leaders, ensuring you ar
 </p1>
 
 
+<h2>Resources</h2>
 
+<ul>
 
-<h2>Cybersecurity Projects</h2>   
+<li><h3>Cybersecurity Projects</h3>   
     
-<h2><a href="https://github.com/WorkED123/cybersecuritycurriculum">Cybersecurity Curriculum </a></h2>
-
-    
-<h2>Cybersecurity Archieves</h2>
-
+<li><h3><a href="https://github.com/WorkED123/cybersecuritycurriculum">Cybersecurity Curriculum </a></h3>
 
     
-<h2>Cyber Briefings</h2>
+<li><h3>Cybersecurity Archieves</h3>
+
 
     
-<h2>Cyber Templates</h2>
+<li><h3>Cyber Briefings</h3>
 
-<p1> <a href="https://docs.google.com/document/d/1eO-H4A1vt8iThbAo5q2Y3OeevAJdnN7mGEOYOsc5gh8/edit?usp=sharing">Cyber Challenge/Activity Template </a></p1>
+    
+<li><h3>Cyber Templates</h3>
 
-<p1> <a href="https://docs.google.com/document/d/1X5KLuItHIzgi3HHD4gN8MqIJKSu0bGxejmVqAnQNiyw/edit?usp=sharing"> Cyber Lesson Plan Template </a></p1>
+</ul>
 
-<p1></p1>
+<h2>Programs</h2>
+
+<ul>
+    <li><h3><a href="https://github.com/WorkED123/discovery">Cyber Discovery</a></li>
+          <li><h3><a href="https://github.com/WorkED123/advance">Advanced Cyber</a></li>
+              <li><h3><a href="https://github.com/WorkED123/preprenticeship">Cyber Pre-apprenticeship</a></li>
+                <li><h3><a href="https://github.com/WorkED123/teachingcyber">Teaching cybersecurity for Teachers</a></li>
+</ul>
 
 
 

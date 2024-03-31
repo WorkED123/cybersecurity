@@ -62,6 +62,8 @@ Our complete Cyber Pathway has been crafted by industry leaders, ensuring you ar
 
 <li><h3><a href="https://github.com/WorkED123/Appendeics/blob/main/README.md">Appendices</h3>
 
+<li><h3><a href="https://docs.google.com/spreadsheets/d/1vQj3tJ6ONOAJdVSYZvaqn_4pYtg0BZ6g/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true">NICE Framework</h3>
+
 </ul>
 
 <h2>Programs</h2>

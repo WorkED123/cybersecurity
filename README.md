@@ -1,7 +1,7 @@
 <h1> <a href="https://worked.com/work-based-learning/cybersecurity/">Cyber Pathway </a></h1>
 
 <p align="center">
-<img src="">
+<img src="WorkED_Logo_Full_Green.pdf">
 </p>
 
 

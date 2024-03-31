@@ -1,10 +1,5 @@
 <h1> <a href="https://worked.com/work-based-learning/cybersecurity/">Cyber Pathway </a></h1>
 
-<p align="center">
-<img src="WorkED_Logo_Full_Green.pdf">
-</p>
-
-
 <h2>Cyber Pathway Syllabus</h2>
 
 <p1>Welcome to the Work ED Cyber Pathway! As new hires, you might be curious about what this enterprise entails and what outcomes it aims to achieve. The Work ED Cyber Pathway is a comprehensive educational initiative designed to cater to various programs, including our Cyber Discovery, Advanced Cyber, and Cyber Pre-apprenticeship. We've built this cybersecurity pathway with a dual focus: aligning with industry standards while setting benchmarks for work-based learning innovation.

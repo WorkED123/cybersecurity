@@ -2,9 +2,17 @@
 
 <h2>Cyber Pathway Syllabus</h2>
 
-<p1>Welcome to the Work ED Cyber Pathway! As new hires, you might be curious about what this enterprise entails and what outcomes it aims to achieve. The Work ED Cyber Pathway is a comprehensive educational initiative designed to cater to various programs, including our Cyber Discovery, Advanced Cyber, and Cyber Pre-apprenticeship. We've built this cybersecurity pathway with a dual focus: aligning with industry standards while setting benchmarks for work-based learning innovation.
+<p1>Forging Tomorrow's Cyber Defenders
+The threat landscape in cybersecurity evolves daily. Organizations face unprecedented challenges in protecting their digital assets from sophisticated ransomware attacks and nation-state threats. Yet, there's a critical shortage of qualified cybersecurity professionals to meet this growing demand—over 3.5 million unfilled cybersecurity positions are projected globally by 2025.
+This is where Work ED's Cyber Pathway steps in. Our mission is clear: We transform students into job-ready cybersecurity professionals through immersive, hands-on learning experiences. We don't just teach cybersecurity—we create cyber defenders.
+Our comprehensive pathway encompasses three progressive stages:
 
-Managed entirely by our dedicated Cyber Education Team, this pathway takes students from cyber career discovery to career launch. We provide them with authentic, expert-led experiences using the latest tools and technologies in the field, coupled with invaluable mentorship to prepare them for successful job placements.
+Cyber Discovery: Sparking interest and building foundational knowledge
+Advanced Cyber: Developing technical expertise through real-world scenarios
+Cyber Pre-apprenticeship: Bridging education and industry through guided work experience
+
+What sets our program apart is our unwavering commitment to excellence and innovation. Our curriculum, developed in partnership with leading cybersecurity firms, combines cutting-edge technical training with practical applications. Students work with the same tools and technologies industry professionals use while receiving mentorship from experienced practitioners.
+Students progress from basic concepts to advanced cybersecurity skills through carefully structured units and lessons. Each module builds upon the previous one, creating a logical pathway to mastery. More importantly, our focus on hands-on learning means students don't just understand cybersecurity—they experience it. The cyber threats of tomorrow require defenders today. Welcome to the program that will prepare you to join their ranks.
 
 Our curriculum is thoughtfully structured into Units and Lessons, ensuring students receive a systematic and progressive education in cybersecurity. Each unit is carefully designed to cover key concepts and skills relevant to specific learning and career development stages. Whether it's <a href="https://github.com/WorkED123/discovery">Cyber Discovery </a> for beginners, <a href="https://github.com/WorkED123/advance">Advanced Cyber </a> for those looking to deepen their expertise, or <a href="https://github.com/WorkED123/preprenticeship">Cyber Pre-apprenticeship </a> to bridge the gap between education and employment, our curriculum provides tailored content for each program. Furthermore, our program continues beyond serving students alone. Cyber educators nationwide have access to our curriculum, making it an invaluable resource, particularly for instructors <a href="https://github.com/WorkED123/teachingcyber">teaching cybersecurity </a>for the first time. 
 
